@@ -279,25 +279,11 @@ footer {
 }
 
 @media (min-width: 768px) {
-  button {
-  background-color: transparent;
-  border-radius: 0.3em;
-  position: relative;
-  overflow: hidden;
-  cursor: pointer;
-  transition: 0.5s;
-
-  font-family: inherit;
-  text-transform: uppercase;
-  color: var(--color);
-  z-index: 1;
-}
-
-.btn {
-  padding: 0.65em 1.6em;
-  margin: 1.5rem;
-  font-size: 1.25rem;
-}
+  .btn {
+    padding: 0.65em 1.6em;
+    margin: 1.5rem;
+    font-size: 1.25rem;
+  }
 
   .icon {
     font-size: 5rem;
