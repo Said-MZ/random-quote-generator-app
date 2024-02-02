@@ -223,7 +223,7 @@ main {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 100svh;
   background-image: url("/ContourLine.svg");
   background-repeat: no-repeat;
   background-size: cover;
